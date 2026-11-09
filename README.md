@@ -16,7 +16,7 @@ Photos, music, videos, books and comics, kept on your own devices.
 
 ## Tulipix Manager
 
-One Android app for everything on your phone. It works offline, with no account and no tracking.
+One Android app for everything on your phone. Free, with no account. The Google Play version shows a few ads and has a one-time Remove ads purchase.
 
 | | |
 |---|---|
@@ -35,7 +35,7 @@ One Android app for everything on your phone. It works offline, with no account 
 
 ## Privacy
 
-Your files never leave your phone. The only optional request is a lyrics look-up, and it is off by default.
+Your files never leave your phone. The Google Play version shows ads through Google AdMob; an optional lyrics look-up is off by default.
 Read the [privacy policy](https://tulipix.pro/manager/privacy/) and [terms](https://tulipix.pro/manager/terms/).
 
 <br>

@@ -4,7 +4,7 @@
 
 ## Apps
 
-- [Tulipix Manager](https://tulipix.pro/manager/): a free Android app (8.0+) that brings photos, music, videos, books, comics and PDFs together. Works offline, no account, no tracking. Get it on [Google Play](https://play.google.com/store/apps/details?id=app.tulipix.phone) or as a direct APK download.
+- [Tulipix Manager](https://tulipix.pro/manager/): a free Android app (8.0+) that brings photos, music, videos, books, comics and PDFs together. Free, no account. The Google Play version shows a few ads (Google AdMob) with a one-time Remove ads purchase; the direct APK has none. Get it on [Google Play](https://play.google.com/store/apps/details?id=app.tulipix.phone) or as a direct APK download.
 - Tulipix Companion and Tulipix For Desktop: coming soon.
 
 ## Tulipix Manager features
@@ -19,7 +19,7 @@
 
 ## Policies
 
-- [Privacy policy](https://tulipix.pro/manager/privacy/): no account or analytics; the only optional network request is a lyrics look-up to LRCLIB
+- [Privacy policy](https://tulipix.pro/manager/privacy/): no account; files never leave the phone; the Play version's ads send an ad request to Google AdMob; an optional lyrics look-up goes to LRCLIB
 - [Terms of use](https://tulipix.pro/manager/terms/)
 
 ## Contact
