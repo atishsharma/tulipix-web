@@ -1,0 +1,27 @@
+# Tulipix
+
+> Everything You Keep, In One Place. Software for your photos, music, videos, books and comics, kept on your own devices.
+
+## Apps
+
+- [Tulipix Manager](https://tulipix.pro/manager/): a free Android app (8.0+) that brings photos, music, videos, books, comics and PDFs together. Works offline, no account, no tracking. Get it on [Google Play](https://play.google.com/store/apps/details?id=app.tulipix.phone) or as a direct APK download.
+- Tulipix Companion and Tulipix For Desktop: coming soon.
+
+## Tulipix Manager features
+
+- Home: now playing, recent items and storage at a glance
+- Photos and videos: browse by day, Memories from this day, places, videos that resume
+- Music: songs, albums, artists, playlists, timed lyrics (optional, off by default), equaliser, sleep timer, Cast
+- Books and comics: EPUB with read aloud, CBZ/CBR with strip mode and zoom, PDFs, Scan to PDF
+- Search across songs, videos, photos and documents
+- Home screen widgets in five styles and three glass strengths
+- Encrypted Private folder opened with fingerprint, face or screen lock
+
+## Policies
+
+- [Privacy policy](https://tulipix.pro/manager/privacy/): no account or analytics; the only optional network request is a lyrics look-up to LRCLIB
+- [Terms of use](https://tulipix.pro/manager/terms/)
+
+## Contact
+
+mail@atishaksharma.com

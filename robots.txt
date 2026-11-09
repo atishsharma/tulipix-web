@@ -1,3 +1,14 @@
 User-agent: *
 Allow: /
+
+# AI and search crawlers are welcome to read the public pages.
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
 Sitemap: https://tulipix.pro/sitemap.xml
