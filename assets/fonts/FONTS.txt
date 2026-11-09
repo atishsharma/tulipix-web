@@ -1,0 +1,3 @@
+Fonts used by this site, self-hosted (no request to Google Fonts):
+- Bricolage Grotesque (variable, Latin subset): SIL Open Font License 1.1, (c) The Bricolage Grotesque Project Authors. https://github.com/ateliertriay/bricolage
+- Lexend (Regular, Medium, SemiBold, Latin subset): SIL Open Font License 1.1, see OFL-Lexend.txt.

@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Page not found – Tulipix</title>
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#16102A">
+<link rel="icon" href="/assets/img/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32.png">
+<link rel="apple-touch-icon" href="/assets/img/favicon-180.png">
+<link rel="preload" href="/assets/fonts/bricolage.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/base.css">
+<style>
+body{background:var(--ink);color:var(--on-ink);min-height:100svh}
+.nf{min-height:100svh;display:flex;flex-direction:column;position:relative;overflow:hidden;isolation:isolate}
+.nf::before{content:"";position:absolute;inset:0;z-index:-1;background:
+  radial-gradient(60% 55% at 78% 40%,rgba(240,69,125,.32),transparent 65%),
+  radial-gradient(50% 50% at 12% 95%,rgba(124,77,255,.35),transparent 65%)}
+.nf::after{content:"";position:absolute;inset:0;z-index:-1;opacity:.5;background-image:radial-gradient(rgba(255,255,255,.06) 1px,transparent 1px);background-size:22px 22px;-webkit-mask-image:radial-gradient(70% 70% at 50% 50%,#000,transparent);mask-image:radial-gradient(70% 70% at 50% 50%,#000,transparent)}
+.nf header{padding:22px var(--gutter)}
+.nf main{flex:1;display:grid;align-content:center;padding:0 var(--gutter) clamp(40px,8vw,96px);max-width:var(--wrap);width:100%;margin:0 auto}
+.num{display:flex;align-items:center;gap:clamp(4px,1.4vw,18px);font:800 clamp(7rem,28vw,20rem)/.8 var(--display);font-stretch:80%;letter-spacing:-.06em;margin-left:-.04em}
+.num svg{width:1.45em;height:.72em;flex:none;overflow:visible}
+.nf h1{font-size:clamp(1.8rem,4.4vw,3rem);margin-top:clamp(18px,3vw,36px);line-height:1}
+.nf p{color:var(--on-ink-mute);margin:14px 0 0;max-width:46ch}
+.nf .cta{display:flex;flex-wrap:wrap;gap:12px;margin-top:28px}
+.nf .btn-line{color:var(--on-ink)}
+.nf .also{margin-top:clamp(28px,5vw,48px);padding-top:18px;border-top:1px solid rgba(255,255,255,.16);display:flex;flex-wrap:wrap;gap:8px 22px;font-size:.92rem;max-width:560px}
+.nf .also a{color:var(--on-ink)}
+</style>
+</head>
+<body class="site-main">
+<div class="nf">
+  <header><a class="brand" href="/" style="display:inline-flex"><img src="/assets/img/logo.png" alt="" width="34" height="34">Tulipix</a></header>
+  <main>
+    <div class="num" aria-hidden="true">
+      <span>4</span>
+      <svg viewBox="0 0 400 200" fill="none"><defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2DD4A8"/><stop offset=".35" stop-color="#2F7BFF"/><stop offset=".7" stop-color="#C026D3"/><stop offset="1" stop-color="#FF9A3D"/></linearGradient></defs><path d="M60 100C60 28 150 28 200 100C250 172 340 172 340 100C340 28 250 28 200 100C150 172 60 172 60 100Z" stroke="url(#g)" stroke-width="40" stroke-linejoin="round"/></svg>
+      <span>4</span>
+    </div>
+    <h1>That page is not here.</h1>
+    <p>The link may be old or mistyped. Go back to the start, or open Tulipix Manager.</p>
+    <div class="cta">
+      <a class="btn btn-solid" href="/">Tulipix home</a>
+      <a class="btn btn-line" href="/manager/">Tulipix Manager</a>
+    </div>
+    <div class="also"><a href="/manager/privacy/">Privacy policy</a><a href="/manager/terms/">Terms of use</a><a href="mailto:mail@atishaksharma.com">mail@atishaksharma.com</a></div>
+  </main>
+</div>
+</body>
+</html>
